@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="styles.css" media="all">
+
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+    <div class=page>
+    <h1>World Happy Score, GDP, Life Expectancy Visualisation</h1>
+    <div class="pure-g">
+        <div class="pure-u-1-1">
+          <h2>World Happiness Score in the year of 2019</h2>
+        </div>
+      </div>
+    <p>This interactive map provides details about the happiness score for countries around the world in the year of 2019. The slider filter can filtercountries with Happiness Score under a specific value </p>
+    <p>From adjusting the Happiness Score in the slider bar, it shows that countries with low happiness score are mainly found in Africa and some countries in South Asia. Low happiness score can also be impacted by other factor such as low GDP, which will be explained in the next section. On the other hand, countries that have high happiness score are mainly found in North America, Oceania and Europe. Meanwhile, Happiness score of most countries in Asia lies between 4 to 6. </p>
+    <div id="map" class ="vis-container"></div>
+    <h3>Figure 1</h3>
+    <div class="pure-g-r">
+    <div class="pure-u-1-1">
+            <div class="pure-u-1-1">
+          
+            
+      <h2>The relation between GDP, Happiness Score and Life Expectancy</h2>
+      <p>GDP and Life Expectancy socre are two of the many factors that are used in the caluclation of Happiness Score of each countries.This visualisation proves that countries with higher GDP have higher happiness score as well. However, there are outliers - Botswana and Costa Rica.
+        As we can see the, the GDP of these 2 countries are very similar. However, the different in their happiness score is significant. Even GDP is one of the main factor that affects Happiness Score of a Country, but other factors can also have significant impact on happiness score of a country as well.</p>
+        
+      <p> Life Expectancy score is also one of the factor that contribute to the calucaltion of happiness score. However it does not have a big impact as what GDP has on Happiness Score. As mentioned above, a country with higher GDP would normally has higher Happiness Score as well, but this relationship does not exist between happiness score and life expectancy. Through adjust the selection menu of Life Expectancy in the visualisation, we can see that in each level of life expectancy there are countries with significant different in happiness score and GDP</p>
+
+    </div>
+
+    <div id="scatterPlot" class ="vis-container"></div>
+    <h3>Figure 2</h3>
+    <p> This is an interactive scatterplot which shows relationship between GDP,happiness score and life expectancy, which countries are categorized base on Region. Western Europe countries generally have high GDP, happiness score and life expectancy as well. On the other hand, Countries in Sub-Sahara Africa generally have low happiness score, life expectancy score and GDP </p>
+    <div id="scatterPlot2" class ="vis-container"></div>
+    <h3>Figure 3</h3>
+    <h2>GDP and Happiness Score changes over years</h2>
+    <p>From 2016 to 2019 there are slight increases in World's average Happiness Score. However, the world's average GDP from 2016 to 2019 does not follow the growth of average Happiness Score. </p>
+    <div id="bar" class="="vis-container></div>
+    <h3>Figure 4</h3>
+  </div>
+    
+  </div>
+    </div>
+  <script type ="text/javascript">
+    var vis ="js/multiple_map.vg.json";
+    var vis2 = "js/scatterPlot.vg.json";
+    var vis3 ="js/scatterPlotRegion.vg.json";
+    var vis4 = "js/back2back_bar_chart.vg.json";
+    vegaEmbed('#map',vis).then(function(result){}).catch(console.error);
+    vegaEmbed('#scatterPlot',vis2).then(function(result){}).catch(console.error);
+    vegaEmbed('#scatterPlot2',vis3).then(function(result){}).catch(console.error);
+    vegaEmbed('#bar',vis4).then(function(result){}).catch(console.error);
+  </script>
+  </div>
+  </body>
+</html>

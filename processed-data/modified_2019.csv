@@ -1,0 +1,309 @@
+Country,Region,Category,Value,Score
+Afghanistan,Southern Asia,Life Expectancy,0.361,3.203
+Albania,Central and Eastern Europe,Life Expectancy,0.874,4.719
+Algeria,Middle East and Northern Africa,Life Expectancy,0.785,5.211
+Argentina,Latin America and Caribbean,Life Expectancy,0.881,6.086
+Armenia,Central and Eastern Europe,Life Expectancy,0.815,4.559
+Australia,Australia and New Zealand,Life Expectancy,1.036,7.228
+Austria,Western Europe,Life Expectancy,1.016,7.246
+Azerbaijan,Central and Eastern Europe,Life Expectancy,0.769,5.208
+Bahrain,Middle East and Northern Africa,Life Expectancy,0.871,6.199
+Bangladesh,Southern Asia,Life Expectancy,0.723,4.456
+Belarus,Central and Eastern Europe,Life Expectancy,0.789,5.323
+Belgium,Western Europe,Life Expectancy,0.986,6.923
+Benin,Sub-Saharan Africa,Life Expectancy,0.397,4.883
+Bhutan,Southern Asia,Life Expectancy,0.604,5.082
+Bolivia,Latin America and Caribbean,Life Expectancy,0.706,5.779
+Bosnia and Herzegovina,Central and Eastern Europe,Life Expectancy,0.845,5.386
+Botswana,Sub-Saharan Africa,Life Expectancy,0.538,3.488
+Brazil,Latin America and Caribbean,Life Expectancy,0.802,6.3
+Bulgaria,Central and Eastern Europe,Life Expectancy,0.815,5.011
+Burkina Faso,Sub-Saharan Africa,Life Expectancy,0.38,4.587
+Burundi,Sub-Saharan Africa,Life Expectancy,0.38,3.775
+Cambodia,Southeastern Asia,Life Expectancy,0.637,4.7
+Cameroon,Sub-Saharan Africa,Life Expectancy,0.331,5.044
+Canada,North America,Life Expectancy,1.039,7.278
+Central African Republic,Sub-Saharan Africa,Life Expectancy,0.105,3.083
+Chad,Sub-Saharan Africa,Life Expectancy,0.192,4.35
+Chile,Latin America and Caribbean,Life Expectancy,0.92,6.444
+China,Eastern Asia,Life Expectancy,0.893,5.191
+Colombia,Latin America and Caribbean,Life Expectancy,0.841,6.125
+Comoros,Sub-Saharan Africa,Life Expectancy,0.505,3.973
+Congo,Sub-Saharan Africa,Life Expectancy,0.508,4.812
+Dem. Rep. Congo,Sub-Saharan Africa,Life Expectancy,0.357,4.418
+Costa Rica,Latin America and Caribbean,Life Expectancy,0.963,7.167
+Croatia,Central and Eastern Europe,Life Expectancy,0.914,5.432
+Cyprus,Western Europe,Life Expectancy,1.042,6.046
+Czech Republic,Central and Eastern Europe,Life Expectancy,0.92,6.852
+Denmark,Western Europe,Life Expectancy,0.996,7.6
+Dominican Republic,Latin America and Caribbean,Life Expectancy,0.779,5.425
+Ecuador,Latin America and Caribbean,Life Expectancy,0.868,6.028
+Egypt,Middle East and Northern Africa,Life Expectancy,0.644,4.166
+El Salvador,Latin America and Caribbean,Life Expectancy,0.789,6.253
+Estonia,Central and Eastern Europe,Life Expectancy,0.874,5.893
+Ethiopia,Sub-Saharan Africa,Life Expectancy,0.532,4.286
+Finland,Western Europe,Life Expectancy,0.986,7.769
+France,Western Europe,Life Expectancy,1.045,6.592
+Gabon,Sub-Saharan Africa,Life Expectancy,0.571,4.799
+Georgia,Central and Eastern Europe,Life Expectancy,0.752,4.519
+Germany,Western Europe,Life Expectancy,0.987,6.985
+Ghana,Sub-Saharan Africa,Life Expectancy,0.486,4.996
+Greece,Western Europe,Life Expectancy,0.999,5.287
+Guatemala,Latin America and Caribbean,Life Expectancy,0.746,6.436
+Guinea,Sub-Saharan Africa,Life Expectancy,0.375,4.534
+Haiti,Latin America and Caribbean,Life Expectancy,0.449,3.597
+Honduras,Latin America and Caribbean,Life Expectancy,0.828,5.86
+Hong Kong,Eastern Asia,Life Expectancy,1.122,5.43
+Hungary,Central and Eastern Europe,Life Expectancy,0.828,5.758
+Iceland,Western Europe,Life Expectancy,1.026,7.494
+India,Southern Asia,Life Expectancy,0.588,4.015
+Indonesia,Southeastern Asia,Life Expectancy,0.66,5.192
+Iran,Middle East and Northern Africa,Life Expectancy,0.785,4.548
+Iraq,Middle East and Northern Africa,Life Expectancy,0.574,4.437
+Ireland,Western Europe,Life Expectancy,0.999,7.021
+Israel,Middle East and Northern Africa,Life Expectancy,1.029,7.139
+Italy,Western Europe,Life Expectancy,1.039,6.223
+Ivory Coast,Sub-Saharan Africa,Life Expectancy,0.232,4.944
+Jamaica,Latin America and Caribbean,Life Expectancy,0.831,5.89
+Japan,Eastern Asia,Life Expectancy,1.088,5.886
+Jordan,Middle East and Northern Africa,Life Expectancy,0.815,4.906
+Kazakhstan,Central and Eastern Europe,Life Expectancy,0.729,5.809
+Kenya,Sub-Saharan Africa,Life Expectancy,0.581,4.509
+Kosovo,Central and Eastern Europe,Life Expectancy,0.758,6.1
+Kuwait,Middle East and Northern Africa,Life Expectancy,0.808,6.021
+Kyrgyzstan,Central and Eastern Europe,Life Expectancy,0.723,5.261
+Laos,Southeastern Asia,Life Expectancy,0.551,4.796
+Latvia,Central and Eastern Europe,Life Expectancy,0.812,5.94
+Lebanon,Middle East and Northern Africa,Life Expectancy,0.815,5.197
+Lesotho,Sub-Saharan Africa,Life Expectancy,0.168,3.802
+Liberia,Sub-Saharan Africa,Life Expectancy,0.443,3.975
+Libya,Middle East and Northern Africa,Life Expectancy,0.673,5.525
+Lithuania,Central and Eastern Europe,Life Expectancy,0.818,6.149
+Luxembourg,Western Europe,Life Expectancy,1.012,7.09
+Madagascar,Sub-Saharan Africa,Life Expectancy,0.555,3.933
+Malawi,Sub-Saharan Africa,Life Expectancy,0.495,3.41
+Malaysia,Southeastern Asia,Life Expectancy,0.828,5.339
+Mali,Sub-Saharan Africa,Life Expectancy,0.308,4.39
+Malta,Western Europe,Life Expectancy,0.999,6.726
+Mauritania,Sub-Saharan Africa,Life Expectancy,0.489,4.49
+Mauritius,Sub-Saharan Africa,Life Expectancy,0.798,5.888
+Mexico,Latin America and Caribbean,Life Expectancy,0.861,6.595
+Moldova,Central and Eastern Europe,Life Expectancy,0.739,5.529
+Mongolia,Eastern Asia,Life Expectancy,0.667,5.285
+Montenegro,Central and Eastern Europe,Life Expectancy,0.871,5.523
+Morocco,Middle East and Northern Africa,Life Expectancy,0.782,5.208
+Mozambique,Sub-Saharan Africa,Life Expectancy,0.39,4.466
+Myanmar,Southeastern Asia,Life Expectancy,0.555,4.36
+Nepal,Southern Asia,Life Expectancy,0.677,4.913
+Netherlands,Western Europe,Life Expectancy,0.999,7.488
+New Zealand,Australia and New Zealand,Life Expectancy,1.026,7.307
+Nicaragua,Latin America and Caribbean,Life Expectancy,0.835,6.105
+Niger,Sub-Saharan Africa,Life Expectancy,0.366,4.628
+Nigeria,Sub-Saharan Africa,Life Expectancy,0.245,5.265
+North Macedonia,Western Europe,Life Expectancy,0.838,5.274
+Northern Cyprus,Western Europe,Life Expectancy,1.042,5.718
+Norway,Middle East and Northern Africa,Life Expectancy,1.028,7.554
+Pakistan,Southern Asia,Life Expectancy,0.535,5.653
+Palestinian Territories,Middle East and Northern Africa,Life Expectancy,0.672,4.696
+Panama,Latin America and Caribbean,Life Expectancy,0.91,6.321
+Paraguay,Latin America and Caribbean,Life Expectancy,0.777,5.743
+Peru,Latin America and Caribbean,Life Expectancy,0.854,5.697
+Philippines,Southeastern Asia,Life Expectancy,0.657,5.631
+Poland,Central and Eastern Europe,Life Expectancy,0.884,6.182
+Portugal,Western Europe,Life Expectancy,0.999,5.693
+Qatar,Middle East and Northern Africa,Life Expectancy,0.871,6.374
+Romania,Central and Eastern Europe,Life Expectancy,0.825,6.07
+Russia,Central and Eastern Europe,Life Expectancy,0.726,5.648
+Rwanda,Sub-Saharan Africa,Life Expectancy,0.614,3.334
+Saudi Arabia,Middle East and Northern Africa,Life Expectancy,0.795,6.375
+Senegal,Sub-Saharan Africa,Life Expectancy,0.571,4.681
+Serbia,Central and Eastern Europe,Life Expectancy,0.854,5.603
+Sierra Leone,Sub-Saharan Africa,Life Expectancy,0.242,4.374
+Singapore,Southeastern Asia,Life Expectancy,1.141,6.262
+Slovakia,Central and Eastern Europe,Life Expectancy,0.881,6.198
+Slovenia,Central and Eastern Europe,Life Expectancy,0.953,6.118
+Somalia,Sub-Saharan Africa,Life Expectancy,0.268,4.668
+South Africa,Sub-Saharan Africa,Life Expectancy,0.469,4.722
+South Korea,Eastern Asia,Life Expectancy,1.036,5.895
+South Sudan,Western Europe,Life Expectancy,0.295,2.853
+Spain,Southern Asia,Life Expectancy,1.062,6.354
+Sri Lanka,Sub-Saharan Africa,Life Expectancy,0.831,4.366
+Swaziland,Latin America and Caribbean,Life Expectancy,0,4.212
+Sweden,Sub-Saharan Africa,Life Expectancy,1.009,7.343
+Switzerland,Western Europe,Life Expectancy,1.052,7.48
+Syria,Western Europe,Life Expectancy,0.44,3.462
+Taiwan,Middle East and Northern Africa,Life Expectancy,0.914,6.446
+Tajikistan,Eastern Asia,Life Expectancy,0.718,5.467
+Tanzania,Central and Eastern Europe,Life Expectancy,0.499,3.231
+Thailand,Sub-Saharan Africa,Life Expectancy,0.828,6.008
+Togo,Southeastern Asia,Life Expectancy,0.41,4.085
+Trinidad & Tobago,Sub-Saharan Africa,Life Expectancy,0.713,6.192
+Tunisia,Latin America and Caribbean,Life Expectancy,0.815,4.461
+Turkey,Middle East and Northern Africa,Life Expectancy,0.808,5.373
+Turkmenistan,Middle East and Northern Africa,Life Expectancy,0.657,5.247
+Uganda,Central and Eastern Europe,Life Expectancy,0.443,4.189
+Ukraine,Sub-Saharan Africa,Life Expectancy,0.739,4.332
+United Arab Emirates,Central and Eastern Europe,Life Expectancy,0.825,6.825
+United Kingdom,Middle East and Northern Africa,Life Expectancy,0.996,7.054
+United States of America,Western Europe,Life Expectancy,0.874,6.892
+Uruguay,North America,Life Expectancy,0.891,6.293
+Uzbekistan,Latin America and Caribbean,Life Expectancy,0.756,6.174
+Venezuela,Central and Eastern Europe,Life Expectancy,0.805,4.707
+Vietnam,Latin America and Caribbean,Life Expectancy,0.851,5.175
+Yemen,Southeastern Asia,Life Expectancy,0.463,3.38
+Zambia,Middle East and Northern Africa,Life Expectancy,0.426,4.107
+Zimbabwe,Sub-Saharan Africa,Life Expectancy,0.433,3.663
+Afghanistan,Southern Asia,GDP,0.35,3.203
+Albania,Central and Eastern Europe,GDP,0.947,4.719
+Algeria,Middle East and Northern Africa,GDP,1.002,5.211
+Argentina,Latin America and Caribbean,GDP,1.092,6.086
+Armenia,Central and Eastern Europe,GDP,0.85,4.559
+Australia,Australia and New Zealand,GDP,1.372,7.228
+Austria,Western Europe,GDP,1.376,7.246
+Azerbaijan,Central and Eastern Europe,GDP,1.043,5.208
+Bahrain,Middle East and Northern Africa,GDP,1.362,6.199
+Bangladesh,Southern Asia,GDP,0.562,4.456
+Belarus,Central and Eastern Europe,GDP,1.067,5.323
+Belgium,Western Europe,GDP,1.356,6.923
+Benin,Sub-Saharan Africa,GDP,0.393,4.883
+Bhutan,Southern Asia,GDP,0.813,5.082
+Bolivia,Latin America and Caribbean,GDP,0.776,5.779
+Bosnia and Herzegovina,Central and Eastern Europe,GDP,0.945,5.386
+Botswana,Sub-Saharan Africa,GDP,1.041,3.488
+Brazil,Latin America and Caribbean,GDP,1.004,6.3
+Bulgaria,Central and Eastern Europe,GDP,1.092,5.011
+Burkina Faso,Sub-Saharan Africa,GDP,0.331,4.587
+Burundi,Sub-Saharan Africa,GDP,0.046,3.775
+Cambodia,Southeastern Asia,GDP,0.574,4.7
+Cameroon,Sub-Saharan Africa,GDP,0.549,5.044
+Canada,North America,GDP,1.365,7.278
+Central African Republic,Sub-Saharan Africa,GDP,0.026,3.083
+Chad,Sub-Saharan Africa,GDP,0.35,4.35
+Chile,Latin America and Caribbean,GDP,1.159,6.444
+China,Eastern Asia,GDP,1.029,5.191
+Colombia,Latin America and Caribbean,GDP,0.985,6.125
+Comoros,Sub-Saharan Africa,GDP,0.274,3.973
+Congo,Sub-Saharan Africa,GDP,0.673,4.812
+Dem. Rep. Congo,Sub-Saharan Africa,GDP,0.094,4.418
+Costa Rica,Latin America and Caribbean,GDP,1.034,7.167
+Croatia,Central and Eastern Europe,GDP,1.155,5.432
+Cyprus,Western Europe,GDP,1.263,6.046
+Czech Republic,Central and Eastern Europe,GDP,1.269,6.852
+Denmark,Western Europe,GDP,1.383,7.6
+Dominican Republic,Latin America and Caribbean,GDP,1.015,5.425
+Ecuador,Latin America and Caribbean,GDP,0.912,6.028
+Egypt,Middle East and Northern Africa,GDP,0.913,4.166
+El Salvador,Latin America and Caribbean,GDP,0.794,6.253
+Estonia,Central and Eastern Europe,GDP,1.237,5.893
+Ethiopia,Sub-Saharan Africa,GDP,0.336,4.286
+Finland,Western Europe,GDP,1.34,7.769
+France,Western Europe,GDP,1.324,6.592
+Gabon,Sub-Saharan Africa,GDP,1.057,4.799
+Georgia,Central and Eastern Europe,GDP,0.886,4.519
+Germany,Western Europe,GDP,1.373,6.985
+Ghana,Sub-Saharan Africa,GDP,0.611,4.996
+Greece,Western Europe,GDP,1.181,5.287
+Guatemala,Latin America and Caribbean,GDP,0.8,6.436
+Guinea,Sub-Saharan Africa,GDP,0.38,4.534
+Haiti,Latin America and Caribbean,GDP,0.323,3.597
+Honduras,Latin America and Caribbean,GDP,0.642,5.86
+Hong Kong,Eastern Asia,GDP,1.438,5.43
+Hungary,Central and Eastern Europe,GDP,1.201,5.758
+Iceland,Western Europe,GDP,1.38,7.494
+India,Southern Asia,GDP,0.755,4.015
+Indonesia,Southeastern Asia,GDP,0.931,5.192
+Iran,Middle East and Northern Africa,GDP,1.1,4.548
+Iraq,Middle East and Northern Africa,GDP,1.043,4.437
+Ireland,Western Europe,GDP,1.499,7.021
+Israel,Middle East and Northern Africa,GDP,1.276,7.139
+Italy,Western Europe,GDP,1.294,6.223
+Ivory Coast,Sub-Saharan Africa,GDP,0.569,4.944
+Jamaica,Latin America and Caribbean,GDP,0.831,5.89
+Japan,Eastern Asia,GDP,1.327,5.886
+Jordan,Middle East and Northern Africa,GDP,0.837,4.906
+Kazakhstan,Central and Eastern Europe,GDP,1.173,5.809
+Kenya,Sub-Saharan Africa,GDP,0.512,4.509
+Kosovo,Central and Eastern Europe,GDP,0.882,6.1
+Kuwait,Middle East and Northern Africa,GDP,1.5,6.021
+Kyrgyzstan,Central and Eastern Europe,GDP,0.551,5.261
+Laos,Southeastern Asia,GDP,0.764,4.796
+Latvia,Central and Eastern Europe,GDP,1.187,5.94
+Lebanon,Middle East and Northern Africa,GDP,0.987,5.197
+Lesotho,Sub-Saharan Africa,GDP,0.489,3.802
+Liberia,Sub-Saharan Africa,GDP,0.073,3.975
+Libya,Middle East and Northern Africa,GDP,1.044,5.525
+Lithuania,Central and Eastern Europe,GDP,1.238,6.149
+Luxembourg,Western Europe,GDP,1.609,7.09
+Madagascar,Sub-Saharan Africa,GDP,0.274,3.933
+Malawi,Sub-Saharan Africa,GDP,0.191,3.41
+Malaysia,Southeastern Asia,GDP,1.221,5.339
+Mali,Sub-Saharan Africa,GDP,0.385,4.39
+Malta,Western Europe,GDP,1.3,6.726
+Mauritania,Sub-Saharan Africa,GDP,0.57,4.49
+Mauritius,Sub-Saharan Africa,GDP,1.12,5.888
+Mexico,Latin America and Caribbean,GDP,1.07,6.595
+Moldova,Central and Eastern Europe,GDP,0.685,5.529
+Mongolia,Eastern Asia,GDP,0.948,5.285
+Montenegro,Central and Eastern Europe,GDP,1.051,5.523
+Morocco,Middle East and Northern Africa,GDP,0.801,5.208
+Mozambique,Sub-Saharan Africa,GDP,0.204,4.466
+Myanmar,Southeastern Asia,GDP,0.71,4.36
+Nepal,Southern Asia,GDP,0.446,4.913
+Netherlands,Western Europe,GDP,1.396,7.488
+New Zealand,Australia and New Zealand,GDP,1.303,7.307
+Nicaragua,Latin America and Caribbean,GDP,0.694,6.105
+Niger,Sub-Saharan Africa,GDP,0.138,4.628
+Nigeria,Sub-Saharan Africa,GDP,0.696,5.265
+North Macedonia,Western Europe,GDP,0.983,5.274
+Northern Cyprus,Western Europe,GDP,1.263,5.718
+Norway,Middle East and Northern Africa,GDP,1.488,7.554
+Pakistan,Southern Asia,GDP,0.677,5.653
+Palestinian Territories,Middle East and Northern Africa,GDP,0.657,4.696
+Panama,Latin America and Caribbean,GDP,1.149,6.321
+Paraguay,Latin America and Caribbean,GDP,0.855,5.743
+Peru,Latin America and Caribbean,GDP,0.96,5.697
+Philippines,Southeastern Asia,GDP,0.807,5.631
+Poland,Central and Eastern Europe,GDP,1.206,6.182
+Portugal,Western Europe,GDP,1.221,5.693
+Qatar,Middle East and Northern Africa,GDP,1.684,6.374
+Romania,Central and Eastern Europe,GDP,1.162,6.07
+Russia,Central and Eastern Europe,GDP,1.183,5.648
+Rwanda,Sub-Saharan Africa,GDP,0.359,3.334
+Saudi Arabia,Middle East and Northern Africa,GDP,1.403,6.375
+Senegal,Sub-Saharan Africa,GDP,0.45,4.681
+Serbia,Central and Eastern Europe,GDP,1.004,5.603
+Sierra Leone,Sub-Saharan Africa,GDP,0.268,4.374
+Singapore,Southeastern Asia,GDP,1.572,6.262
+Slovakia,Central and Eastern Europe,GDP,1.246,6.198
+Slovenia,Central and Eastern Europe,GDP,1.258,6.118
+Somalia,Sub-Saharan Africa,GDP,0,4.668
+South Africa,Sub-Saharan Africa,GDP,0.96,4.722
+South Korea,Eastern Asia,GDP,1.301,5.895
+South Sudan,Western Europe,GDP,0.306,2.853
+Spain,Southern Asia,GDP,1.286,6.354
+Sri Lanka,Sub-Saharan Africa,GDP,0.949,4.366
+Swaziland,Latin America and Caribbean,GDP,0.811,4.212
+Sweden,Sub-Saharan Africa,GDP,1.387,7.343
+Switzerland,Western Europe,GDP,1.452,7.48
+Syria,Western Europe,GDP,0.619,3.462
+Taiwan,Middle East and Northern Africa,GDP,1.368,6.446
+Tajikistan,Eastern Asia,GDP,0.493,5.467
+Tanzania,Central and Eastern Europe,GDP,0.476,3.231
+Thailand,Sub-Saharan Africa,GDP,1.05,6.008
+Togo,Southeastern Asia,GDP,0.275,4.085
+Trinidad & Tobago,Sub-Saharan Africa,GDP,1.231,6.192
+Tunisia,Latin America and Caribbean,GDP,0.921,4.461
+Turkey,Middle East and Northern Africa,GDP,1.183,5.373
+Turkmenistan,Middle East and Northern Africa,GDP,1.052,5.247
+Uganda,Central and Eastern Europe,GDP,0.332,4.189
+Ukraine,Sub-Saharan Africa,GDP,0.82,4.332
+United Arab Emirates,Central and Eastern Europe,GDP,1.503,6.825
+United Kingdom,Middle East and Northern Africa,GDP,1.333,7.054
+United States of America,Western Europe,GDP,1.433,6.892
+Uruguay,North America,GDP,1.124,6.293
+Uzbekistan,Latin America and Caribbean,GDP,0.745,6.174
+Venezuela,Central and Eastern Europe,GDP,0.96,4.707
+Vietnam,Latin America and Caribbean,GDP,0.741,5.175
+Yemen,Southeastern Asia,GDP,0.287,3.38
+Zambia,Middle East and Northern Africa,GDP,0.578,4.107
+Zimbabwe,Sub-Saharan Africa,GDP,0.366,3.663

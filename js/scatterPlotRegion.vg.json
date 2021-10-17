@@ -1,0 +1,120 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Happiness Score vs GDP vs Life Expectancy",
+    "width": 745,
+    "background":"#e2e2e2",
+    "height": 600,
+    "data": {
+        "url":"processed-data/modified_2019.csv"
+
+    },
+    "params": [
+        {
+            "name": "grid",
+            "bind": "scales",
+            "select": {"type": "interval"}
+          },
+        {
+            "name":"category_selected",
+            "select":{
+                "type": "point",
+                "fields": ["Category"]
+            },
+            "bind":"legend"
+        },
+        {
+            "name": "selected_Region",
+  
+            "bind":{
+                "input": "select",
+                "options":[
+                        null,
+                        "Australia and New Zealand",
+                        "Central and Eastern Europe",
+                        "Eastern Asia",
+                        "Latin America and Caribbean",
+                        "Middle East and Northern Africa",
+                        "North America",
+                        "Southeastern Asia",
+                        "Southern Asia",
+                        "Sub-Saharan Africa",
+                        "Western Europe"
+
+                    ],
+                    "labels": [
+                        "All Region",
+                        "Australia and New Zealand",
+                        "Central and Eastern Europe",
+                        "Eastern Asia",
+                        "Latin America and Caribbean",
+                        "Middle East and Northern Africa",
+                        "North America",
+                        "Southeastern Asia",
+                        "Southern Asia",
+                        "Sub-Saharan Africa",
+                        "Western Europe"
+                    ],
+                    "name": "Select Region:"
+                }
+        }
+        
+    ],
+    "transform": [
+        {"filter":"selected_Region ==datum.Region || selected_Region == null"}
+    ],
+    "layer":[
+        {
+        "mark":{
+            "type": "point",
+            "filled": true
+        },
+        "encoding": {
+            "x": {
+                "field": "Score",
+                "type": "quantitative",
+                "title": "Happiness Score"
+                },
+            "y": {
+                "field": "Value",
+                "aggregate":"sum",
+                "type": "quantitative",
+                "scale": {"type": "linear","domain": [0,2]},
+                "title": "Value"
+                },
+            "color": {
+                "field": "Region",
+                "type": "nominal"
+                },
+            "shape":{
+                "field":"Category",
+                "type": "nominal"
+            },
+            "opacity": {
+                "condition": {"param": "category_selected", "value": 1},
+                "value": 0.1
+              },  
+            "tooltip": [
+                {"field": "Country", "type": "nominal","title":"Country"},
+                {"field": "Value", "type": "quantitative", "title":"Value"},
+                {"field": "Category", "type": "nominal"},
+                {"field": "Region", "type": "nominal","title":"Region"},
+                {"field": "Score", "type": "quantitative", "title":"Happiness Score"}
+                 ]
+
+           
+            }
+        }
+
+     
+    ],
+    "config": {
+        "title": {
+          "frame":"bounds",
+          "font": "Open Sans",
+          "fontSize": 16,
+          "fontWeight": 700
+        }
+    }
+   
+    
+}

@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "World Average GDP and Happiness from 2016 to 2019",
+    "height": 600,
+    "width":{"step":95},
+    "background":"#e2e2e2",
+    "data":{"url": "processed-data/combined.csv"},
+    "transform": [
+        {"calculate": "datum.Category","as": "Happiness and GDP"}
+    ],
+    "mark": "bar",
+    "encoding": {
+        "column": {
+            "title":"Years",
+            "field": "Year",
+            "type": "ordinal",
+            "spacing": 10,
+            "header": {"orient": "bottom"}
+          },
+        "y": {
+            "aggregate": "average",
+            "field": "Value",
+            "type": "quantitative",
+            "title": "Value"
+          },
+          "x": {"field": "Happiness and GDP","axis":null},
+          "color": {"field": "Happiness and GDP", "scale": {"range": ["#649cd8", "#2f73bc"]}},
+        "tooltip": [
+            {"field": "Year", "type": "ordinal", "title":"Year"},
+            {"field":"Happiness and GDP","type": "nominal","title":"Category:"},
+            {"field": "Value", "type": "quantitative", "title":"Score"}
+        ]  
+    },
+    "config": {
+        "title": {
+          "frame":"bounds",
+          "font": "Open Sans",
+          "fontSize": 16,
+          "fontWeight": 700
+        }
+    } 
+}

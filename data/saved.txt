@@ -1,0 +1,42 @@
+ "transform": [
+        { "filter": "datum['Country or Region']== 'Australia'||datum['Country or Region']== 'Nepal' ||datum['Country or Region']== 'Kosovo' ||datum['Country or Region']== 'Egypt' || datum['Country or Region']  =='Central African Republic'|| datum['Country or Region']  =='Burundi' ||datum['Country or Region']  =='Liberia' || datum['Country or Region']  =='Qatar' ||datum['Country or Region']  =='Singapore' ||datum['Country or Region']  =='Luxembourg'"}
+    ],
+
+
+
+          "name": "option",
+            "value": "Score",
+            "bind": {
+            "input": "select",
+            "options":[
+                "Score",
+                "GDP per capita"
+            ],
+            "labels": [
+                "Happiness Level",
+                "GDP"
+            ],
+            "name": "select your option"
+            }
+        }
+
+
+
+          "encoding": {
+        "column": {
+            "field":"Year",
+            "type":"ordinal",
+            "spacing": 10,
+            "header": {"orient": "bottom"}
+
+        },
+        "y":{
+            "aggregate":"average",
+            "field":"Score",
+            "title": "Average Happiness Score"
+        },
+        "x":{
+            "field":"Year"
+        },
+        "color": {"field": "Score"}
+    }
